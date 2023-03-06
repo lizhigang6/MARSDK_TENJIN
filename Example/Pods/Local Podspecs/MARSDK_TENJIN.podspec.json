@@ -1,0 +1,22 @@
+{
+  "name": "MARSDK_TENJIN",
+  "version": "0.1.0",
+  "summary": "A short description of MARSDK_TENJIN.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/izhigang6@163.com/MARSDK_TENJIN",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "izhigang6@163.com": "lizhigang6@163.com"
+  },
+  "source": {
+    "git": "https://github.com/izhigang6@163.com/MARSDK_TENJIN.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MARSDK_TENJIN/Classes/**/*"
+}
